@@ -1,0 +1,557 @@
+absolute_course_url,course_name,subject_name
+https://www.class-central.com/mooc/1176/open2study-concepts-in-game-development,Concepts in Game Development,Programming 
+https://www.class-central.com/mooc/4191/coursera-responsive-website-basics-code-with-html-css-and-javascript,"Responsive Website Basics: Code with HTML, CSS, and JavaScript ",Programming 
+https://www.class-central.com/mooc/4211/coursera-character-design-for-video-games,Character Design for Video Games,Programming 
+https://www.class-central.com/mooc/4292/coursera-front-end-javascript-frameworks-angularjs,Front-End JavaScript Frameworks: AngularJS,Programming 
+https://www.class-central.com/mooc/4261/coursera-mastering-the-software-engineering-interview,Mastering the Software Engineering Interview,Programming 
+https://www.class-central.com/mooc/4266/coursera-como-criar-jogos-2d-para-iphone-e-ipad,Como criar jogos 2D para iPhone e iPad,Programming 
+https://www.class-central.com/mooc/5670/coursera-principios-de-desenvolvimento-agil-de-software,Princípios de Desenvolvimento Ágil de Software,Programming 
+https://www.class-central.com/mooc/5598/coursera-desarrollo-de-aplicaciones-web-conceptos-basicos,Desarrollo de Aplicaciones Web: Conceptos Básicos,Programming 
+https://www.class-central.com/mooc/5497/coursera-web-application-development-basic-concepts,Web Application Development: Basic Concepts,Programming 
+https://www.class-central.com/mooc/5719/coursera-build-your-first-android-app-project-centered-course,Build Your First Android App (Project-Centered Course),Programming 
+https://www.class-central.com/mooc/5815/coursera-how-to-create-a-website-in-a-weekend-project-centered-course,How To Create a Website in a Weekend! (Project-Centered Course),Programming 
+https://www.class-central.com/mooc/5447/coursera-desarrollo-de-aplicaciones-avanzadas-con-android,Desarrollo de aplicaciones avanzadas con Android,Programming 
+https://www.class-central.com/mooc/5461/coursera-desarrollo-de-aplicaciones-con-android,Desarrollo de aplicaciones con Android,Programming 
+https://www.class-central.com/mooc/7272/coursera------,Методологии антикризисного жизненного цикла корпоративных систем,Programming 
+https://www.class-central.com/mooc/529/coursera-creative-programming-for-digital-media-mobile-apps,Creative Programming for Digital Media & Mobile Apps,Programming 
+https://www.class-central.com/mooc/1737/coursera--the-advanced-object-oriented-technology,面向对象技术高级课程（The Advanced Object-Oriented Technology）,Programming 
+https://www.class-central.com/mooc/4229/coursera-server-side-development-with-nodejs,Server-side Development with NodeJS,Programming 
+https://www.class-central.com/mooc/5676/coursera-tdd-desenvolvimento-de-software-guiado-por-testes,TDD – Desenvolvimento de Software Guiado por Testes,Programming 
+https://www.class-central.com/mooc/5513/coursera-engineering-maintainable-android-apps,Engineering Maintainable Android Apps,Programming 
+https://www.class-central.com/mooc/3396/coursera-introduction-to-programming-with-matlab,Introduction to Programming with MATLAB,Programming 
+https://www.class-central.com/mooc/4197/coursera-rails-with-active-record-and-action-pack,Rails with Active Record and Action Pack,Programming 
+https://www.class-central.com/mooc/4212/coursera-object-oriented-programming-in-java,Object Oriented Programming in Java,Programming 
+https://www.class-central.com/mooc/385/coursera-learn-to-program-the-fundamentals,Learn to Program: The Fundamentals,Programming 
+https://www.class-central.com/mooc/671/coursera-c-for-c-programmers-part-a,"C++ For C Programmers, Part A",Programming 
+https://www.class-central.com/mooc/1377/coursera-----latex-introduction-to-latex,Документы и презентации в LaTeX (Introduction to LaTeX),Programming 
+https://www.class-central.com/mooc/4268/coursera-foundations-of-objective-c-app-development,Foundations of Objective-C App Development,Programming 
+https://www.class-central.com/mooc/4270/coursera-html-css-and-javascript-for-web-developers,"HTML, CSS, and Javascript for Web Developers",Programming 
+https://www.class-central.com/mooc/4294/coursera-introduction-to-css3,Introduction to CSS3,Programming 
+https://www.class-central.com/mooc/4307/coursera-introduction-to-html5,Introduction to HTML5,Programming 
+https://www.class-central.com/mooc/4321/coursera-ruby-on-rails-web-services-and-integration-with-mongodb,Ruby on Rails Web Services and Integration with MongoDB,Programming 
+https://www.class-central.com/mooc/4643/coursera-arte-3d-y-animacion-en-videojuegos,Arte 3D y animación en videojuegos,Programming 
+https://www.class-central.com/mooc/5456/coursera-fundamentos-de-android,Fundamentos de Android,Programming 
+https://www.class-central.com/mooc/5526/coursera-c-,系统平台与C#程序基础,Programming 
+https://www.class-central.com/mooc/5564/coursera-managing-an-agile-team,Managing an Agile Team,Programming 
+https://www.class-central.com/mooc/5502/coursera-getting-started-agile-meets-design-thinking,Getting Started: Agile Meets Design Thinking,Programming 
+https://www.class-central.com/mooc/6290/coursera-functional-program-design-in-scala,Functional Program Design in Scala,Programming 
+https://www.class-central.com/mooc/7313/edx-java-fundamentals-for-android-development,Java Fundamentals for Android Development,Programming 
+https://www.class-central.com/mooc/4295/coursera-interactivity-with-javascript,Interactivity with JavaScript,Programming 
+https://www.class-central.com/mooc/4283/coursera-single-page-web-applications-with-angularjs,Single Page Web Applications with AngularJS,Programming 
+https://www.class-central.com/mooc/4288/coursera-web-application-development-with-javascript-and-mongodb,Web Application Development with JavaScript and MongoDB,Programming 
+https://www.class-central.com/mooc/4199/coursera-relational-database-support-for-data-warehouses,Relational Database Support for Data Warehouses,Programming 
+https://www.class-central.com/mooc/4257/coursera-story-and-narrative-development-for-video-games,Story and Narrative Development for Video Games,Programming 
+https://www.class-central.com/mooc/4175/coursera-app-design-and-development-for-ios,App Design and Development for iOS,Programming 
+https://www.class-central.com/mooc/4315/coursera-game-development-for-modern-platforms,Game Development for Modern Platforms,Programming 
+https://www.class-central.com/mooc/4190/coursera-advanced-styling-with-responsive-design,Advanced Styling with Responsive Design,Programming 
+https://www.class-central.com/mooc/4258/coursera-ruby-on-rails-an-introduction,Ruby on Rails: An Introduction,Programming 
+https://www.class-central.com/mooc/4323/coursera-java-programming-principles-of-software-design,Java Programming: Principles of Software Design,Programming 
+https://www.class-central.com/mooc/4518/coursera-networking-and-security-in-ios-applications,Networking and Security in iOS Applications,Programming 
+https://www.class-central.com/mooc/7315/edx-android-app-development-for-beginners,Android App Development for Beginners,Programming 
+https://www.class-central.com/mooc/7346/edx-professional-android-app-development,Professional Android App Development,Programming 
+https://www.class-central.com/mooc/5960/coursera-parallel-programming,Parallel programming,Programming 
+https://www.class-central.com/mooc/4362/coursera-java-programming-arrays-lists-and-structured-data,"Java Programming: Arrays, Lists, and Structured Data",Programming 
+https://www.class-central.com/mooc/4305/coursera-java-programming-solving-problems-with-software,Java Programming: Solving Problems with Software,Programming 
+https://www.class-central.com/mooc/4348/coursera-ios-app-development-basics,iOS App Development Basics,Programming 
+https://www.class-central.com/mooc/4665/coursera-desarrollo-de-videojuegos-en-unity-una-introduccion,Desarrollo de Videojuegos en Unity: Una Introducción,Programming 
+https://www.class-central.com/mooc/5276/coursera-----2---,Разработка корпоративных систем. Часть 2. Строгие методологии разработки,Programming 
+https://www.class-central.com/mooc/5500/coursera-android-app-components-intents-activities-and-broadcast-receivers,"Android App Components - Intents, Activities, and Broadcast Receivers",Programming 
+https://www.class-central.com/mooc/8477/coursera----python,Основы программирования на Python,Programming 
+https://www.class-central.com/mooc/8681/coursera-front-end-javascript-frameworks-angular,Front-End JavaScript Frameworks: Angular,Programming 
+https://www.class-central.com/mooc/428/coursera-vlsi-cad-part-i-logic,VLSI CAD Part I: Logic,Programming 
+https://www.class-central.com/mooc/4224/coursera-multiplatform-mobile-app-development-with-web-technologies,Multiplatform Mobile App Development with Web Technologies,Programming 
+https://www.class-central.com/mooc/4248/coursera-introduction-to-swift-programming,Introduction To Swift Programming,Programming 
+https://www.class-central.com/mooc/4286/coursera-python-data-processing-using-python,用Python玩转数据 Data Processing Using Python,Programming 
+https://www.class-central.com/mooc/4337/coursera-database-management-essentials,Database Management Essentials,Programming 
+https://www.class-central.com/mooc/5599/coursera-windows,Windows可视化程序设计,Programming 
+https://www.class-central.com/mooc/5450/coursera-programando-con-java-para-aplicaciones-android,Programando con Java para aplicaciones Android,Programming 
+https://www.class-central.com/mooc/4200/coursera-responsive-web-design,Responsive Web Design,Programming 
+https://www.class-central.com/mooc/4661/coursera-diseno-de-videojuegos,Diseño de videojuegos,Programming 
+https://www.class-central.com/mooc/4356/coursera-responsive-website-tutorial-and-examples,Responsive Website Tutorial and Examples,Programming 
+https://www.class-central.com/mooc/4623/coursera-swift-programar-para-ios,Swift: programar para iOS,Programming 
+https://www.class-central.com/mooc/5284/coursera-----1---,Разработка корпоративных систем. Часть 1. Модели жизненного цикла,Programming 
+https://www.class-central.com/mooc/6294/coursera-c-,C#程序设计,Programming 
+https://www.class-central.com/mooc/8682/coursera-front-end-web-ui-frameworks-and-tools-bootstrap-4,Front-End Web UI Frameworks and Tools: Bootstrap 4,Programming 
+https://www.class-central.com/mooc/8687/coursera-developing-android-apps-with-app-inventor,Developing Android Apps with App Inventor,Programming 
+https://www.class-central.com/mooc/544/coursera-online-games-literature-new-media-and-narrative,"Online Games: Literature, New Media, and Narrative",Programming 
+https://www.class-central.com/mooc/2337/coursera-,計算機程式設計,Programming 
+https://www.class-central.com/mooc/4198/coursera-,系统平台与计算环境,Programming 
+https://www.class-central.com/mooc/4256/coursera-programming-foundations-with-javascript-html-and-css,"Programming Foundations with JavaScript, HTML and CSS",Programming 
+https://www.class-central.com/mooc/4275/coursera-introduction-to-game-development,Introduction to Game Development,Programming 
+https://www.class-central.com/mooc/4314/coursera-world-design-for-video-games,World Design for Video Games,Programming 
+https://www.class-central.com/mooc/4648/coursera-videojuegos-de-que-hablamos,Videojuegos: ¿de qué hablamos?,Programming 
+https://www.class-central.com/mooc/4629/coursera-gameplay-en-videojuegos,Gameplay en videojuegos,Programming 
+https://www.class-central.com/mooc/5672/coursera-desenvolvimento-agil-com-java-avancado,Desenvolvimento Ágil com Java Avançado,Programming 
+https://www.class-central.com/mooc/7010/coursera------,Модели антикризисного жизненного цикла корпоративных систем,Programming 
+https://www.class-central.com/mooc/7027/coursera-introduction-to-web-development,Introduction to Web Development,Programming 
+https://www.class-central.com/mooc/8683/coursera-multiplatform-mobile-app-development-with-web-technologies-ionic-and-cordova,Multiplatform Mobile App Development with Web Technologies: Ionic and Cordova,Programming 
+https://www.class-central.com/mooc/2939/coursera-a-programar-una-introduccion-a-la-programacion,¡A Programar! Una introducción a la programación,Programming 
+https://www.class-central.com/mooc/4240/coursera-front-end-web-ui-frameworks-and-tools,Front-End Web UI Frameworks and Tools,Programming 
+https://www.class-central.com/mooc/4644/coursera-desarrollo-de-videojuegos-3d-en-unity-una-introduccion,Desarrollo de Videojuegos 3D en Unity: Una Introducción,Programming 
+https://www.class-central.com/mooc/4656/coursera-motores-graficos-en-videojuegos-game-engine,Motores gráficos en videojuegos: game engine,Programming 
+https://www.class-central.com/mooc/4670/coursera-interfaz-de-usuario-en-ios,Interfaz de usuario en iOS,Programming 
+https://www.class-central.com/mooc/4598/coursera-diseno-de-videojuegos-una-introduccion,Diseño de Videojuegos: Una introducción,Programming 
+https://www.class-central.com/mooc/7763/coursera-android-app-components-services-local-ipc-and-content-providers,"Android App Components - Services, Local IPC, and Content Providers",Programming 
+https://www.class-central.com/mooc/7345/edx-monetize-android-apps-with-business-models,Monetize Android Apps with Business Models,Programming 
+https://www.class-central.com/mooc/4328/coursera-introduction-to-meteor-js-development,Introduction to Meteor.js Development  ,Programming 
+https://www.class-central.com/mooc/4335/coursera-como-criar-aplicativos-com-multiplas-telas-para-iphone-e-ipad,Como criar aplicativos com múltiplas telas para iPhone e iPad,Programming 
+https://www.class-central.com/mooc/8692/coursera-java,Java程序设计,Programming 
+https://www.class-central.com/mooc/5592/coursera-running-product-design-sprints,Running Product Design Sprints,Programming 
+https://www.class-central.com/mooc/5511/coursera-sql-server,SQL Server数据库技术,Programming 
+https://www.class-central.com/mooc/558/edx-agile-development-using-ruby-on-rails-advanced,Agile Development Using Ruby on Rails - Advanced,Programming 
+https://www.class-central.com/mooc/4239/coursera-html-css-and-javascript,"HTML, CSS and JavaScript",Programming 
+https://www.class-central.com/mooc/8741/edx-web-accessibility-fundamentals,Web Accessibility Fundamentals,Programming 
+https://www.class-central.com/mooc/8680/edx-build-web-apis-using-asp-net,Build Web APIs using ASP.NET,Programming 
+https://www.class-central.com/mooc/8671/edx-introduction-to-python-absolute-beginner,Introduction to Python: Absolute Beginner,Programming 
+https://www.class-central.com/mooc/8667/udacity-asynchronous-javascript-requests,Asynchronous JavaScript Requests,Programming 
+https://www.class-central.com/mooc/8689/edx-developing-business-applications-with-power-apps-and-microsoft-flow,Developing Business Applications with Power Apps and Microsoft Flow,Programming 
+https://www.class-central.com/mooc/8718/edx-learn-to-program-in-java,Learn to Program in Java,Programming 
+https://www.class-central.com/mooc/8770/edx-introduction-to-reactjs,Introduction to ReactJS,Programming 
+https://www.class-central.com/mooc/8720/edx-designing-a-technical-solution,Designing a Technical Solution,Programming 
+https://www.class-central.com/mooc/8719/edx-building-interactive-prototypes-using-javascript,Building Interactive Prototypes using JavaScript,Programming 
+https://www.class-central.com/mooc/8722/edx-building-functional-prototypes-using-node-js,Building Functional Prototypes using Node.js,Programming 
+https://www.class-central.com/mooc/8723/edx-object-oriented-programming-in-java,Object Oriented Programming in Java,Programming 
+https://www.class-central.com/mooc/1178/coursera-programming-mobile-applications-for-android-handheld-systems-part-1,Programming Mobile Applications for Android Handheld Systems: Part 1,Programming 
+https://www.class-central.com/mooc/4235/coursera-agile-planning-for-software-products,Agile Planning for Software Products,Programming 
+https://www.class-central.com/mooc/4273/coursera-como-criar-um-aplicativo-para-iphone,Como criar um aplicativo para iPhone,Programming 
+https://www.class-central.com/mooc/4280/coursera-games-sensors-and-media,"Games, Sensors and Media",Programming 
+https://www.class-central.com/mooc/5613/coursera--netweb,基于.Net的Web开发技术,Programming 
+https://www.class-central.com/mooc/7087/coursera-python-programming-a-concise-introduction,Python Programming: A Concise Introduction,Programming 
+https://www.class-central.com/mooc/4318/coursera-reviews-metrics-for-software-improvements,Reviews & Metrics for Software Improvements,Programming 
+https://www.class-central.com/mooc/1031/coursera-beginning-game-programming-with-c,Beginning Game Programming with C#,Programming 
+https://www.class-central.com/mooc/2938/coursera-code-yourself-an-introduction-to-programming,Code Yourself! An Introduction to Programming,Programming 
+https://www.class-central.com/mooc/4251/coursera-best-practices-for-ios-user-interface-design,Best Practices for iOS User Interface Design,Programming 
+https://www.class-central.com/mooc/4302/coursera-client-needs-and-software-requirements,Client Needs and Software Requirements ,Programming 
+https://www.class-central.com/mooc/4333/coursera-codapps-coding-mobile-apps-for-entrepreneurs,CODAPPS: Coding mobile apps for entrepreneurs,Programming 
+https://www.class-central.com/mooc/3076/coursera-programming-mobile-applications-for-android-handheld-systems-part-2,Programming Mobile Applications for Android Handheld Systems: Part 2,Programming 
+https://www.class-central.com/mooc/4187/coursera-software-processes-and-agile-practices,Software Processes and Agile Practices,Programming 
+https://www.class-central.com/mooc/4327/coursera-toward-the-future-of-ios-development-with-swift,Toward the Future of iOS Development with Swift,Programming 
+https://www.class-central.com/mooc/6683/coursera-unity,基于Unity引擎的游戏开发进阶,Programming 
+https://www.class-central.com/mooc/5279/coursera-----3---,Разработка корпоративных систем. Часть 3. Гибкие методологии разработки,Programming 
+https://www.class-central.com/mooc/5673/coursera-orientacao-a-objetos-com-java,Orientação a Objetos com Java,Programming 
+https://www.class-central.com/mooc/390/coursera-learn-to-program-crafting-quality-code,Learn to Program: Crafting Quality Code,Programming 
+https://www.class-central.com/mooc/408/coursera-an-introduction-to-interactive-programming-in-python-part-1,An Introduction to Interactive Programming in Python (Part 1),Programming 
+https://www.class-central.com/mooc/3357/coursera--software-testing,软件测试 (Software Testing),Programming 
+https://www.class-central.com/mooc/4177/coursera-como-aprimorar-e-monetizar-seu-aplicativo-para-ios-e-apple-watch,Como aprimorar e monetizar seu aplicativo para iOS e Apple Watch,Programming 
+https://www.class-central.com/mooc/4254/coursera-c,计算导论与C语言基础,Programming 
+https://www.class-central.com/mooc/8600/coursera-introducao-a-ciencia-da-computacao-com-python-parte-2,Introdução à Ciência da Computação com Python Parte 2,Programming 
+https://www.class-central.com/mooc/4282/coursera-c,C程序设计进阶,Programming 
+https://www.class-central.com/mooc/2763/coursera-c-,C++程序设计,Programming 
+https://www.class-central.com/mooc/3196/coursera-an-introduction-to-interactive-programming-in-python-part-2,An Introduction to Interactive Programming in Python (Part 2),Programming 
+https://www.class-central.com/mooc/4668/coursera-accediendo-a-la-nube-con-ios,Accediendo a la nube con iOS,Programming 
+https://www.class-central.com/mooc/4613/coursera-interactuando-con-el-hardware-del-dispositivo-ios,Interactuando con el hardware del dispositivo iOS,Programming 
+https://www.class-central.com/mooc/6931/coursera-c-for-c-programmers-part-b,"C++ For C Programmers, Part B",Programming 
+https://www.class-central.com/mooc/2067/coursera-interactive-computer-graphics,Interactive Computer Graphics,Programming 
+https://www.class-central.com/mooc/6420/coursera-introduction-to-neurohacking-in-r,Introduction to Neurohacking In R,Programming 
+https://www.class-central.com/mooc/6658/edx-video-game-design-teamwork-collaboration,Video Game Design: Teamwork & Collaboration,Programming 
+https://www.class-central.com/mooc/1983/edx-introduction-to-java-programming-part-1,Introduction to Java Programming – Part 1,Programming 
+https://www.class-central.com/mooc/3486/edx-introduction-to-java-programming-part-2,Introduction to Java Programming – Part 2,Programming 
+https://www.class-central.com/mooc/3758/edx-introduction-to-mobile-application-development-using-android,Introduction to Mobile Application Development using Android,Programming 
+https://www.class-central.com/mooc/324/udacity-web-development,Web Development,Programming 
+https://www.class-central.com/mooc/325/udacity-programming-languages,Programming Languages,Programming 
+https://www.class-central.com/mooc/365/udacity-software-testing,Software Testing,Programming 
+https://www.class-central.com/mooc/457/udacity-software-debugging,Software Debugging,Programming 
+https://www.class-central.com/mooc/553/openlearning-unsw-computing-1-the-art-of-programming,UNSW Computing 1 - The Art of Programming,Programming 
+https://www.class-central.com/mooc/549/udacity-intro-to-parallel-programming,Intro to Parallel Programming,Programming 
+https://www.class-central.com/mooc/551/udacity-html5-game-development,HTML5 Game Development,Programming 
+https://www.class-central.com/mooc/552/udacity-interactive-3d-graphics,Interactive 3D Graphics,Programming 
+https://www.class-central.com/mooc/550/udacity-functional-hardware-verification,Functional Hardware Verification,Programming 
+https://www.class-central.com/mooc/615/openhpi-semantic-web-technologies,Semantic Web Technologies,Programming 
+https://www.class-central.com/mooc/777/openhpi-datenmanagement-mit-sql,Datenmanagement mit SQL,Programming 
+https://www.class-central.com/mooc/831/udacity-intro-to-java-programming,Intro to Java Programming,Programming 
+https://www.class-central.com/mooc/904/open2study-user-experience-for-the-web,User Experience for the Web,Programming 
+https://www.class-central.com/mooc/1348/opensap-introduction-to-mobile-solution-development,Introduction to Mobile Solution Development,Programming 
+https://www.class-central.com/mooc/1481/udacity-intro-to-point-click-app-development,Intro to Point & Click App Development,Programming 
+https://www.class-central.com/mooc/1347/opensap-introduction-to-software-development-on-sap-hana,Introduction to Software Development on SAP HANA,Programming 
+https://www.class-central.com/mooc/1046/udacity-mobile-web-development,Mobile Web Development,Programming 
+https://www.class-central.com/mooc/1580/stanford-openedx-db-introduction-to-databases,DB: Introduction to Databases,Programming 
+https://www.class-central.com/mooc/1788/how-to-create-a-windows-8-app,How to create a Windows 8 App,Programming 
+https://www.class-central.com/mooc/1479/udacity-data-wrangling-with-mongodb,Data Wrangling with MongoDB,Programming 
+https://www.class-central.com/mooc/1701/openhpi-parallel-programming-concepts,Parallel Programming Concepts,Programming 
+https://www.class-central.com/mooc/1952/udacity-make-your-own-2048,Make Your Own 2048,Programming 
+https://www.class-central.com/mooc/2013/udacity-programming-foundations-with-python,Programming Foundations with Python,Programming 
+https://www.class-central.com/mooc/2110/ada-basic-concepts,Ada: Basic Concepts,Programming 
+https://www.class-central.com/mooc/2109/ada-overview,Ada: Overview,Programming 
+https://www.class-central.com/mooc/2111/ada-programming-in-the-large,Ada: Programming in the Large,Programming 
+https://www.class-central.com/mooc/2189/udacity-website-performance-optimization,Website Performance Optimization,Programming 
+https://www.class-central.com/mooc/2212/udacity-ux-design-for-mobile-developers,UX Design for Mobile Developers,Programming 
+https://www.class-central.com/mooc/2211/udacity-developing-android-apps,Developing Android Apps,Programming 
+https://www.class-central.com/mooc/2335/udacity-software-development-process,Software Development Process,Programming 
+https://www.class-central.com/mooc/1894/opensap-an-introduction-to-sap-hana,An Introduction to SAP HANA,Programming 
+https://www.class-central.com/mooc/2339/practical-numerical-methods-with-python,Practical Numerical Methods with Python,Programming 
+https://www.class-central.com/mooc/2780/cambridge-gsce-computing-online,Cambridge GSCE Computing Online,Programming 
+https://www.class-central.com/mooc/2660/udacity-javascript-basics,JavaScript Basics,Programming 
+https://www.class-central.com/mooc/2659/udacity-intro-to-html-and-css,Intro to HTML and CSS,Programming 
+https://www.class-central.com/mooc/2658/udacity-object-oriented-javascript,Object-Oriented JavaScript,Programming 
+https://www.class-central.com/mooc/2997/udacity-intro-to-ajax,Intro to AJAX,Programming 
+https://www.class-central.com/mooc/2999/udacity-html5-canvas,HTML5 Canvas,Programming 
+https://www.class-central.com/mooc/2861/udacity-intro-to-ios-app-development-with-swift,Intro to iOS App Development with Swift,Programming 
+https://www.class-central.com/mooc/2998/udacity-intro-to-jquery,Intro to jQuery,Programming 
+https://www.class-central.com/mooc/3253/udacity-intro-to-relational-databases,Intro to Relational Databases,Programming 
+https://www.class-central.com/mooc/3254/udacity-full-stack-foundations,Full Stack Foundations,Programming 
+https://www.class-central.com/mooc/3255/udacity-responsive-web-design-fundamentals,Responsive Web Design Fundamentals,Programming 
+https://www.class-central.com/mooc/2672/opensap-bi-clients-and-applications-on-sap-hana,BI Clients and Applications on SAP HANA,Programming 
+https://www.class-central.com/mooc/1346/opensap-introduction-to-sap-hana-cloud-platform,Introduction to SAP HANA Cloud Platform,Programming 
+https://www.class-central.com/mooc/2489/opensap-next-steps-in-software-development-on-sap-hana,Next Steps in Software Development on SAP HANA,Programming 
+https://www.class-central.com/mooc/2360/opensap-abap-development-for-sap-hana,ABAP Development for SAP HANA,Programming 
+https://www.class-central.com/mooc/3243/edx-c-programming-c-,C++ Programming | C++程序设计,Programming 
+https://www.class-central.com/mooc/3351/udacity-javascript-testing,JavaScript Testing,Programming 
+https://www.class-central.com/mooc/3350/udacity-uikit-fundamentals,UIKit Fundamentals,Programming 
+https://www.class-central.com/mooc/2340/stanford-openedx-lpl-language-proof-and-logic,"LPL: Language, Proof and Logic",Programming 
+https://www.class-central.com/mooc/3352/udacity-responsive-images,Responsive Images,Programming 
+https://www.class-central.com/mooc/3393/udacity-ios-networking-with-swift,iOS Networking with Swift,Programming 
+https://www.class-central.com/mooc/2590/ionis-python-pour-les-scientifiques,Python pour les scientifiques,Programming 
+https://www.class-central.com/mooc/3523/udacity-authentication-authorization-oauth,Authentication & Authorization: OAuth,Programming 
+https://www.class-central.com/mooc/3528/udacity-a-b-testing,A/B Testing,Programming 
+https://www.class-central.com/mooc/3524/udacity-browser-rendering-optimization,Browser Rendering Optimization,Programming 
+https://www.class-central.com/mooc/3525/udacity-developing-scalable-apps-in-python,Developing Scalable Apps in Python,Programming 
+https://www.class-central.com/mooc/3526/udacity-ios-persistence-and-core-data,iOS Persistence and Core Data,Programming 
+https://www.class-central.com/mooc/3527/udacity-how-to-make-an-ios-app,How to Make an iOS App,Programming 
+https://www.class-central.com/mooc/3455/udacity-android-performance,Android Performance,Programming 
+https://www.class-central.com/mooc/3580/udacity-advanced-android-app-development,Advanced Android App Development,Programming 
+https://www.class-central.com/mooc/3579/udacity-android-development-for-beginners,Android Development for Beginners,Programming 
+https://www.class-central.com/mooc/3581/udacity-material-design-for-android-developers,Material Design for Android Developers,Programming 
+https://www.class-central.com/mooc/3582/udacity-android-ubiquitous-computing,Android Ubiquitous Computing,Programming 
+https://www.class-central.com/mooc/3583/udacity-google-play-services,Google Play Services,Programming 
+https://www.class-central.com/mooc/3584/udacity-gradle-for-android-and-java,Gradle for Android and Java,Programming 
+https://www.class-central.com/mooc/3342/edx-introduction-to-office-365-apis,Introduction to Office 365 APIs,Programming 
+https://www.class-central.com/mooc/5708/debugging-on-sap,Debugging on SAP,Programming 
+https://www.class-central.com/mooc/3701/udacity-monetize-your-android-app-with-ads,Monetize Your Android App with Ads,Programming 
+https://www.class-central.com/mooc/3699/udacity-google-location-services-on-android,Google Location Services on Android,Programming 
+https://www.class-central.com/mooc/3702/udacity-add-google-maps-to-your-android-app,Add Google Maps to your Android App,Programming 
+https://www.class-central.com/mooc/3703/udacity-add-google-sign-in-to-your-android-apps,Add Google Sign-In to your Android Apps,Programming 
+https://www.class-central.com/mooc/3700/udacity-google-analytics-for-android,Google Analytics for Android,Programming 
+https://www.class-central.com/mooc/3717/udacity-xcode-debugging,Xcode Debugging,Programming 
+https://www.class-central.com/mooc/3515/openhpi-java-fur-einsteiger,Java für Einsteiger,Programming 
+https://www.class-central.com/mooc/3925/udacity-learn-swift-programming-syntax,Learn Swift Programming Syntax,Programming 
+https://www.class-central.com/mooc/2056/opensap-next-steps-in-sap-hana-cloud-platform,Next Steps in SAP HANA Cloud Platform,Programming 
+https://www.class-central.com/mooc/3663/opensap-application-development-for-sap-business-bydesign,Application Development for SAP Business ByDesign,Programming 
+https://www.class-central.com/mooc/1797/open-education-by-blackboard-introduction-to-vba-excel-programming,Introduction to VBA/Excel Programming,Programming 
+https://www.class-central.com/mooc/4071/udacity-learn-backbone-js,Learn Backbone.js,Programming 
+https://www.class-central.com/mooc/3996/edx-developing-international-software-part-1,"Developing International Software, Part 1",Programming 
+https://www.class-central.com/mooc/4108/udacity-android-tv-and-google-cast-development,Android TV and Google Cast Development,Programming 
+https://www.class-central.com/mooc/4109/udacity-android-auto-development,Android Auto Development,Programming 
+https://www.class-central.com/mooc/4107/udacity-android-wear-development,Android Wear Development,Programming 
+https://www.class-central.com/mooc/4506/multi-language-programming-with-ada,Multi-Language Programming with Ada,Programming 
+https://www.class-central.com/mooc/4419/udacity-how-to-create-anything-in-android,How to create <anything> in Android,Programming 
+https://www.class-central.com/mooc/4051/edx-programacion-orientada-a-objetos,Programación Orientada a Objetos,Programming 
+https://www.class-central.com/mooc/2147/edx-introduction-to-functional-programming,Introduction to Functional Programming,Programming 
+https://www.class-central.com/mooc/4856/udacity-2d-game-development-with-libgdx,2D Game Development with libGDX,Programming 
+https://www.class-central.com/mooc/4860/udacity-writing-readmes,Writing READMEs,Programming 
+https://www.class-central.com/mooc/4887/udacity-designing-restful-apis,Designing RESTful APIs,Programming 
+https://www.class-central.com/mooc/3516/openhpi-java-workshop-einfuhrung-in-eine-java-programmierumgebung-ide,Java Workshop: Einführung in eine Java- Programmierumgebung (IDE),Programming 
+https://www.class-central.com/mooc/4904/edx-java-java-programming,Java程序设计 | Java Programming,Programming 
+https://www.class-central.com/mooc/4952/udacity-building-high-conversion-web-forms,Building High Conversion Web Forms,Programming 
+https://www.class-central.com/mooc/5055/udacity-firebase-essentials-for-android,Firebase Essentials For Android,Programming 
+https://www.class-central.com/mooc/5056/udacity-how-to-make-a-platformer-using-libgdx,How to Make a Platformer Using libGDX,Programming 
+https://www.class-central.com/mooc/3082/udacity-javascript-design-patterns,JavaScript Design Patterns,Programming 
+https://www.class-central.com/mooc/2866/opensap-extending-sap-products-with-sap-hana-cloud-platform,Extending SAP Products with SAP HANA Cloud Platform,Programming 
+https://www.class-central.com/mooc/4778/opensap-developing-mobile-apps-with-sap-hana-cloud-platform,Developing Mobile Apps with SAP HANA Cloud Platform,Programming 
+https://www.class-central.com/mooc/2038/openhpi-knowledge-engineering-with-semantic-web-technologies,Knowledge Engineering with Semantic Web Technologies,Programming 
+https://www.class-central.com/mooc/2668/openhpi-spielend-programmieren-lernen,Spielend Programmieren lernen!,Programming 
+https://www.class-central.com/mooc/3695/edx-learn-to-program-using-python,Learn to Program Using Python,Programming 
+https://www.class-central.com/mooc/5680/udacity-javascript-promises,JavaScript Promises,Programming 
+https://www.class-central.com/mooc/5679/udacity-offline-web-applications,Offline Web Applications,Programming 
+https://www.class-central.com/mooc/1523/edx-mobile-application-experiences-part-1-from-a-domain-to-an-app-idea,Mobile Application Experiences Part 1: From a Domain to an App Idea,Programming 
+https://www.class-central.com/mooc/4812/edx-the-software-architect-code-building-the-digital-world,The Software Architect Code: Building the Digital World,Programming 
+https://www.class-central.com/mooc/5802/udacity-grand-central-dispatch-gcd,Grand Central Dispatch (GCD),Programming 
+https://www.class-central.com/mooc/5965/udacity-networking-for-web-developers,Networking for Web Developers,Programming 
+https://www.class-central.com/mooc/5969/spark-2014,SPARK 2014,Programming 
+https://www.class-central.com/mooc/6016/udacity-engagement-monetization-mobile-games,Engagement & Monetization | Mobile Games,Programming 
+https://www.class-central.com/mooc/5633/edx-mobile-application-experiences-part-3-building-mobile-apps,Mobile Application Experiences Part 3: Building Mobile Apps,Programming 
+https://www.class-central.com/mooc/6124/openclassrooms-guide-du-developpeur-windows-10,Guide du développeur Windows 10,Programming 
+https://www.class-central.com/mooc/6127/openclassrooms-apprendre-a-coder-pour-les-vrais-debutants,Apprendre à coder pour les vrais débutants,Programming 
+https://www.class-central.com/mooc/6110/udacity-front-end-frameworks,Front End Frameworks,Programming 
+https://www.class-central.com/mooc/5631/edx-mobile-application-experiences-part-4-understanding-use,Mobile Application Experiences Part 4: Understanding Use,Programming 
+https://www.class-central.com/mooc/3335/opensap-software-development-on-sap-hana-delta-sps-11,Software Development on SAP HANA (Delta SPS 11),Programming 
+https://www.class-central.com/mooc/3250/opensap-build-your-own-sap-fiori-app-in-the-cloud,Build Your Own SAP Fiori App in the Cloud,Programming 
+https://www.class-central.com/mooc/3353/edx-introduction-to-cloud-computing,Introduction to Cloud Computing,Programming 
+https://www.class-central.com/mooc/6837/mongodb-university-m233-getting-started-with-spark-and-mongodb,M233: Getting Started with Spark and MongoDB,Programming 
+https://www.class-central.com/mooc/6312/udacity-objective-c-for-swift-developers,Objective-C for Swift Developers,Programming 
+https://www.class-central.com/mooc/5632/edx-mobile-application-experiences-part-5-reporting-research-findings,Mobile Application Experiences Part 5: Reporting Research Findings,Programming 
+https://www.class-central.com/mooc/2867/opensap-sap-business-warehouse-powered-by-sap-hana,SAP Business Warehouse powered by SAP HANA,Programming 
+https://www.class-central.com/mooc/2954/edx-programming-in-scratch,Programming in Scratch,Programming 
+https://www.class-central.com/mooc/4949/edx-introduction-to-mongodb-using-the-mean-stack,Introduction to MongoDB using the MEAN Stack,Programming 
+https://www.class-central.com/mooc/6477/udacity-google-maps-apis,Google Maps APIs,Programming 
+https://www.class-central.com/mooc/6493/concurrency,Concurrency,Programming 
+https://www.class-central.com/mooc/2809/edx-the-computing-technology-inside-your-smartphone,The Computing Technology Inside Your Smartphone,Programming 
+https://www.class-central.com/mooc/5380/openhpi-java-workshop-einfuhrung-in-die-testgetriebene-entwicklung-mit-junit,Java Workshop - Einführung in die Testgetriebene Entwicklung mit JUnit,Programming 
+https://www.class-central.com/mooc/6304/edx-enterprise-software-lifecycle-management,Enterprise Software Lifecycle Management,Programming 
+https://www.class-central.com/mooc/6527/udacity-client-server-communication,Client-Server Communication,Programming 
+https://www.class-central.com/mooc/6531/udacity-web-accessibility,Web Accessibility,Programming 
+https://www.class-central.com/mooc/6548/udacity-intro-to-progressive-web-apps,Intro to Progressive Web Apps,Programming 
+https://www.class-central.com/mooc/6549/udacity-android-basics-multiscreen-apps,Android Basics: Multiscreen Apps,Programming 
+https://www.class-central.com/mooc/4560/edx-developing-windows-10-universal-apps-part-2,Developing Windows 10 Universal Apps - Part 2,Programming 
+https://www.class-central.com/mooc/4559/edx-developing-windows-10-universal-apps-part-3,Developing Windows 10 Universal Apps - Part 3,Programming 
+https://www.class-central.com/mooc/6055/opensap-sap-hana-cloud-platform-,SAP HANA CLOUD PLATFORM の重要事項,Programming 
+https://www.class-central.com/mooc/6149/opensap-developing-web-apps-with-sapui5,Developing Web Apps with SAPUI5,Programming 
+https://www.class-central.com/mooc/4505/edx-developing-windows-10-universal-apps-part-1,Developing Windows 10 Universal Apps - Part 1,Programming 
+https://www.class-central.com/mooc/6332/edx-developing-international-software-part-3,"Developing International Software, Part 3",Programming 
+https://www.class-central.com/mooc/6686/udacity-java-programming-basics,Java Programming Basics,Programming 
+https://www.class-central.com/mooc/6728/udacity-android-basics-networking,Android Basics: Networking,Programming 
+https://www.class-central.com/mooc/4759/edx-matlab-et-octave-pour-debutants,MATLAB et Octave pour débutants,Programming 
+https://www.class-central.com/mooc/5652/emma-coding-in-your-classroom-now,"Coding in your Classroom, Now!",Programming 
+https://www.class-central.com/mooc/6798/udacity-deploying-applications-with-heroku,Deploying Applications with Heroku,Programming 
+https://www.class-central.com/mooc/6796/udacity-dynamic-web-applications-with-sinatra,Dynamic Web Applications with Sinatra,Programming 
+https://www.class-central.com/mooc/6797/udacity-the-mvc-pattern-in-ruby,The MVC Pattern in Ruby,Programming 
+https://www.class-central.com/mooc/6592/edx-windows-10-app-development-advanced,Windows 10 App Development - Advanced,Programming 
+https://www.class-central.com/mooc/6408/kadenze-web-development-and-design-for-artists,Web Development and Design for Artists,Programming 
+https://www.class-central.com/mooc/6956/udacity-android-basics-data-storage,Android Basics: Data Storage,Programming 
+https://www.class-central.com/mooc/7672/eduopen-introduzione-alla-programmazione-con-python,Introduzione alla programmazione con Python,Programming 
+https://www.class-central.com/mooc/6056/opensap-sap-hana-cloud-platform-essentials,SAP HANA Cloud Platform Essentials,Programming 
+https://www.class-central.com/mooc/6878/edx-agile-software-development,Agile Software Development,Programming 
+https://www.class-central.com/mooc/6564/edx-scratch-programmeren-voor-kinderen-8,Scratch: Programmeren voor kinderen (8+),Programming 
+https://www.class-central.com/mooc/4671/edx-html5-apps-and-games-advanced-techniques,HTML5 Apps and Games: Advanced Techniques,Programming 
+https://www.class-central.com/mooc/7278/udacity-android-basics-make-your-first-app,Android Basics: Make Your First App,Programming 
+https://www.class-central.com/mooc/7279/udacity-android-basics-button-clicks,Android Basics: Button Clicks,Programming 
+https://www.class-central.com/mooc/6510/edx-einfuhrung-in-matlab,Einführung in MATLAB,Programming 
+https://www.class-central.com/mooc/7342/udacity-android-basics-user-interface,Android Basics: User Interface,Programming 
+https://www.class-central.com/mooc/7343/udacity-android-basics-user-input,Android Basics: User Input,Programming 
+https://www.class-central.com/mooc/2813/edx-introduction-to-programming-with-java-starting-to-code-with-java,Introduction to Programming with Java: Starting to Code with Java,Programming 
+https://www.class-central.com/mooc/7362/web-applications-for-everybody,Web Applications for Everybody,Programming 
+https://www.class-central.com/mooc/7363/python-for-everybody-exploring-information,Python for Everybody - Exploring Information,Programming 
+https://www.class-central.com/mooc/7380/udacity-vr-scenes-and-objects,VR Scenes and Objects,Programming 
+https://www.class-central.com/mooc/7379/udacity-introduction-to-virtual-reality,Introduction to Virtual Reality,Programming 
+https://www.class-central.com/mooc/7590/edx-intermediate-c,Intermediate C++,Programming 
+https://www.class-central.com/mooc/5735/edx-introduction-to-programming-with-java-writing-good-code,Introduction to Programming with Java: Writing Good Code,Programming 
+https://www.class-central.com/mooc/3781/kadenze-web-coding-fundamentals-for-artists,Web Coding Fundamentals for Artists,Programming 
+https://www.class-central.com/mooc/7480/edx-minecraft-coding-and-teaching,"Minecraft, Coding and Teaching",Programming 
+https://www.class-central.com/mooc/7463/udacity-vr-software-development,VR Software Development,Programming 
+https://www.class-central.com/mooc/7464/udacity-firebase-in-a-weekend-by-google-android,Firebase in a Weekend by Google: Android,Programming 
+https://www.class-central.com/mooc/7465/udacity-firebase-in-a-weekend-by-google-ios,Firebase in a Weekend by Google: iOS,Programming 
+https://www.class-central.com/mooc/7494/udacity-swift-for-beginners,Swift for Beginners,Programming 
+https://www.class-central.com/mooc/7495/udacity-swift-for-developers,Swift for Developers,Programming 
+https://www.class-central.com/mooc/7496/udacity-autolayout,AutoLayout,Programming 
+https://www.class-central.com/mooc/7677/eduopen-capstone-software-per-l-analisi-dei-dati-economici-matlab-r-latex-laboratorio-di-analisi-dei-dati_economia-a,"[Capstone] Software per l'analisi dei dati economici: Matlab, R, LaTeX - Laboratorio di Analisi dei dati_Economia (A)",Programming 
+https://www.class-central.com/mooc/7719/eduopen-introduzione-a-latex,Introduzione a LaTeX,Programming 
+https://www.class-central.com/mooc/7623/udacity-android-for-beginners,Android for Beginners,Programming 
+https://www.class-central.com/mooc/3770/kadenze-introduction-to-programming-for-the-visual-arts-with-p5-js,Introduction to Programming for the Visual Arts with p5.js,Programming 
+https://www.class-central.com/mooc/7204/edx-using-python-for-research,Using Python for Research,Programming 
+https://www.class-central.com/mooc/7753/udacity-building-ios-interfaces,Building iOS Interfaces,Programming 
+https://www.class-central.com/mooc/7754/udacity-ios-design-patterns,iOS Design Patterns,Programming 
+https://www.class-central.com/mooc/7755/udacity-new-android-fundamentals,New Android Fundamentals,Programming 
+https://www.class-central.com/mooc/7376/edx-matlab-and-octave-for-beginners,MATLAB and Octave for Beginners,Programming 
+https://www.class-central.com/mooc/6660/edx-video-game-design-and-balance,Video Game Design and Balance,Programming 
+https://www.class-central.com/mooc/8059/udacity-intro-to-javascript,Intro to JavaScript,Programming 
+https://www.class-central.com/mooc/3590/edx-mobile-computing-with-app-inventor-cs-principles,Mobile Computing with App Inventor – CS Principles,Programming 
+https://www.class-central.com/mooc/1650/edx-programming-basics,Programming Basics,Programming 
+https://www.class-central.com/mooc/1651/edx-object-oriented-programming,Object-Oriented Programming,Programming 
+https://www.class-central.com/mooc/6659/edx-video-game-asset-creation-and-process,Video Game Asset Creation and Process,Programming 
+https://www.class-central.com/mooc/7837/edx-uml-class-diagrams-for-software-engineering,UML Class Diagrams for Software Engineering,Programming 
+https://www.class-central.com/mooc/6300/edx-how-to-win-coding-competitions-secrets-of-champions,How to Win Coding Competitions: Secrets of Champions,Programming 
+https://www.class-central.com/mooc/7840/edx-mobile-application-experiences,Mobile Application Experiences,Programming 
+https://www.class-central.com/mooc/8131/edx-programmation-ios-partie-i,Programmation iOS (partie I),Programming 
+https://www.class-central.com/mooc/8345/udacity-server-side-swift,Server-Side Swift,Programming 
+https://www.class-central.com/mooc/8374/udacity-http-web-servers,HTTP & Web Servers,Programming 
+https://www.class-central.com/mooc/2687/edx-jugando-con-android-aprende-a-programar-tu-primera-app,Jugando con Android - Aprende a Programar tu Primera App,Programming 
+https://www.class-central.com/mooc/8394/udacity-vr-design,VR Design,Programming 
+https://www.class-central.com/mooc/3338/edx-introduction-to-bootstrap-a-tutorial,Introduction to Bootstrap – A Tutorial,Programming 
+https://www.class-central.com/mooc/5923/edx-introduction-to-html-and-javascript,Introduction to HTML and JavaScript,Programming 
+https://www.class-central.com/mooc/7208/edx-advanced-css-concepts,Advanced CSS Concepts,Programming 
+https://www.class-central.com/mooc/7818/edx-using-open-source-web-tooling-to-improve-development-proficiency,Using Open Source Web Tooling to Improve Development Proficiency,Programming 
+https://www.class-central.com/mooc/4062/edx-introduction-to-jquery,Introduction to jQuery,Programming 
+https://www.class-central.com/mooc/7377/edx-angularjs-framework-fundamentals,AngularJS: Framework Fundamentals,Programming 
+https://www.class-central.com/mooc/8422/udacity-vr-platforms-applications,VR Platforms & Applications,Programming 
+https://www.class-central.com/mooc/3231/edx-think-create-code,Think. Create. Code,Programming 
+https://www.class-central.com/mooc/8430/udacity-version-control-with-git,Version Control with Git,Programming 
+https://www.class-central.com/mooc/8439/udacity-firebase-analytics-android,Firebase Analytics: Android,Programming 
+https://www.class-central.com/mooc/8438/udacity-firebase-analytics-ios,Firebase Analytics: iOS,Programming 
+https://www.class-central.com/mooc/8474/udacity-passwordless-login-solutions-for-ios,Passwordless Login Solutions for iOS,Programming 
+https://www.class-central.com/mooc/8475/udacity-passwordless-login-solutions-for-android,Passwordless Login Solutions for Android,Programming 
+https://www.class-central.com/mooc/8369/edx-programmation-concurrente-avec-java,Programmation Concurrente (avec Java),Programming 
+https://www.class-central.com/mooc/2964/edx-android-introduccion-a-la-programacion,Android: Introducción a la Programación,Programming 
+https://www.class-central.com/mooc/8543/udacity-es6-javascript-improved,ES6 - JavaScript Improved,Programming 
+https://www.class-central.com/mooc/8573/udacity-database-systems-concepts-design,Database Systems Concepts & Design,Programming 
+https://www.class-central.com/mooc/8568/udacity-software-analysis-testing,Software Analysis & Testing,Programming 
+https://www.class-central.com/mooc/8577/udacity-introduction-to-python,Introduction to Python,Programming 
+https://www.class-central.com/mooc/8514/edx-how-virtual-reality-vr-works,How Virtual Reality (VR) Works,Programming 
+https://www.class-central.com/mooc/8582/edx-developing-data-client-applications-and-services,Developing Data Client Applications and Services,Programming 
+https://www.class-central.com/mooc/8583/edx-getting-started-with-azure-app-service-web-apps,Getting Started with Azure App Service: Web Apps,Programming 
+https://www.class-central.com/mooc/8618/udacity-localization-essentials,Localization Essentials,Programming 
+https://www.class-central.com/mooc/5764/edx-html5-and-css-fundamentals,HTML5 and CSS Fundamentals,Programming 
+https://www.class-central.com/mooc/3444/edx-html5-coding-essentials-and-best-practices,HTML5 Coding Essentials and Best Practices,Programming 
+https://www.class-central.com/mooc/7199/edx-css-basics,CSS Basics,Programming 
+https://www.class-central.com/mooc/8633/edx-introduction-to-typescript-2,Introduction to TypeScript 2,Programming 
+https://www.class-central.com/mooc/8645/edx-microsoft-professional-program-front-end-web-development-orientation,Microsoft Professional Program : Front-End Web Development Orientation,Programming 
+https://www.class-central.com/mooc/5345/edx-introduccion-al-desarrollo-de-videojuegos-con-unity,Introducción al desarrollo de videojuegos con Unity,Programming 
+https://www.class-central.com/mooc/8650/edx-introduction-to-python-fundamentals,Introduction to Python: Fundamentals,Programming 
+https://www.class-central.com/mooc/8646/edx-building-your-azure-skills-toolkit,Building Your Azure Skills Toolkit,Programming 
+https://www.class-central.com/mooc/6609/edx-implementing-etl-with-sql-server-integration-services-ssis,Implementing ETL with SQL Server Integration Services (SSIS),Programming 
+https://www.class-central.com/mooc/7400/edx-managing-sql-database-transactions-and-concurrency,Managing SQL Database Transactions and Concurrency,Programming 
+https://www.class-central.com/mooc/7405/edx-developing-sql-databases,Developing SQL Databases,Programming 
+https://www.class-central.com/mooc/3341/edx-querying-with-transact-sql,Querying with Transact-SQL,Programming 
+https://www.class-central.com/mooc/7401/edx-creating-programmatic-sql-database-objects,Creating Programmatic SQL Database Objects,Programming 
+https://www.class-central.com/mooc/7399/edx-implementing-in-memory-sql-database-objects,Implementing In-Memory SQL Database Objects,Programming 
+https://www.class-central.com/mooc/8108/edx-delivering-a-data-warehouse-in-the-cloud,Delivering a Data Warehouse in the Cloud,Programming 
+https://www.class-central.com/mooc/8002/edx-asynchronous-programming-with-javascript,Asynchronous Programming with JavaScript,Programming 
+https://www.class-central.com/mooc/8521/edx-provisioning-databases-in-azure-and-sql-server,Provisioning Databases in Azure and SQL Server,Programming 
+https://www.class-central.com/mooc/8278/edx-sql-server-analysis-services-developing-a-tabular-data-model,SQL Server Analysis Services: Developing a Tabular Data Model,Programming 
+https://www.class-central.com/mooc/4758/edx-introduction-to-c,Introduction to C++,Programming 
+https://www.class-central.com/mooc/8684/coursera-multiplatform-mobile-app-development-with-nativescript,Multiplatform Mobile App Development with NativeScript,Programming 
+https://www.class-central.com/mooc/8772/edx-lernen-objekt-orientierter-programmierung,Lernen objekt-orientierter Programmierung,Programming 
+https://www.class-central.com/mooc/8765/futurelearn-game-design-and-development-a-bit-by-bit-history-of-video-game-music,Game Design and Development: a Bit-by-Bit History of Video Game Music,Programming 
+https://www.class-central.com/mooc/452/coursera-programming-languages-part-a,"Programming Languages, Part A",Programming 
+https://www.class-central.com/mooc/8593/edx-programming-for-everyone-introduction-to-programming,Programming for Everyone: Introduction to Programming,Programming 
+https://www.class-central.com/mooc/8179/edx-software-testing-fundamentals,Software Testing Fundamentals,Programming 
+https://www.class-central.com/mooc/8171/edx-software-testing-management,Software Testing Management,Programming 
+https://www.class-central.com/mooc/7314/edx-android-developer-capstone-project-building-a-successful-android-app,Android Developer Capstone Project: Building a Successful Android App,Programming 
+https://www.class-central.com/mooc/8518/edx-programming-for-the-web-with-javascript,Programming for the Web with JavaScript,Programming 
+https://www.class-central.com/mooc/5469/coursera-desarrollo-de-aplicaciones-ios-proyecto-final,Desarrollo de Aplicaciones iOS - Proyecto Final,Programming 
+https://www.class-central.com/mooc/6235/coursera-build-your-own-ios-app,Build Your Own iOS App,Programming 
+https://www.class-central.com/mooc/8395/kadenze-digital-game-design-here-comes-the-twister,Digital Game Design: Here Comes the Twister,Programming 
+https://www.class-central.com/mooc/8396/kadenze-digital-game-design-into-the-silent-water-under-the-rocks-and-stones,"Digital Game Design: Into the Silent Water, Under the Rocks and Stones",Programming 
+https://www.class-central.com/mooc/8402/kadenze-digital-game-design-and-you-may-ask-yourself-well-how-did-i-get-here,"Digital Game Design: And You May Ask Yourself, “Well, How Did I Get Here?”",Programming 
+https://www.class-central.com/mooc/8515/edx-creating-virtual-reality-vr-apps,Creating Virtual Reality (VR) Apps,Programming 
+https://www.class-central.com/mooc/8528/edx-programmation-ios-partie-ii,Programmation iOS (partie II),Programming 
+https://www.class-central.com/mooc/6657/edx-gameplay-programming-for-video-game-designers,Gameplay Programming for Video Game Designers,Programming 
+https://www.class-central.com/mooc/8595/edx-mobile-computing-with-app-inventor-cs-principles-part-ii,Mobile Computing with App Inventor: CS Principles Part II,Programming 
+https://www.class-central.com/mooc/6752/coursera-getting-started-with-augmented-reality,Getting started with Augmented Reality,Programming 
+https://www.class-central.com/mooc/7398/edx-optimizing-performance-for-sql-based-applications,Optimizing Performance for SQL Based Applications,Programming 
+https://www.class-central.com/mooc/8647/edx-microsoft-professional-capstone-front-end-web-development,Microsoft Professional Capstone : Front End Web Development,Programming 
+https://www.class-central.com/mooc/6720/edx-video-game-design-history,Video Game Design History,Programming 
+https://www.class-central.com/mooc/1243/futurelearn-begin-programming-build-your-first-mobile-game,Begin Programming: Build Your First Mobile Game,Programming 
+https://www.class-central.com/mooc/4343/coursera-using-python-to-access-web-data,Using Python to Access Web Data,Programming 
+https://www.class-central.com/mooc/4174/coursera-python-data-structures,Python Data Structures,Programming 
+https://www.class-central.com/mooc/4319/coursera-programming-for-everybody-getting-started-with-python,Programming for Everybody (Getting Started with Python),Programming 
+https://www.class-central.com/mooc/8640/coursera----c--,Основы разработки на C++: белый пояс,Programming 
+https://www.class-central.com/mooc/4272/coursera-using-databases-with-python,Using Databases with Python,Programming 
+https://www.class-central.com/mooc/5446/coursera-java-for-android,Java for Android,Programming 
+https://www.class-central.com/mooc/1272/mobiles-for-development,Mobiles for Development,Programming 
+https://www.class-central.com/mooc/6463/mongodb-university-m122-getting-started-with-mongodb-cluster-management,M122: Getting Started with MongoDB Cluster Management,Programming 
+https://www.class-central.com/mooc/7384/edx-angularjs-advanced-framework-techniques,AngularJS: Advanced Framework Techniques,Programming 
+https://www.class-central.com/mooc/4997/kadenze-visual-development-envisioning-a-narrative-for-film-and-video-games,Visual Development: Envisioning a Narrative for Film and Video Games,Programming 
+https://www.class-central.com/mooc/848/coursera-initiation-a-la-programmation-en-c,Initiation à la programmation (en C++),Programming 
+https://www.class-central.com/mooc/8516/edx-software-development-fundamentals,Software Development Fundamentals,Programming 
+https://www.class-central.com/mooc/443/edx-agile-development-using-ruby-on-rails-basics,Agile Development Using Ruby on Rails - Basics,Programming 
+https://www.class-central.com/mooc/5674/coursera-desenvolvimento-agil-com-padroes-de-projeto,Desenvolvimento Ágil com Padrões de Projeto,Programming 
+https://www.class-central.com/mooc/8496/edx-javascript-introduction,JavaScript Introduction,Programming 
+https://www.class-central.com/mooc/8527/edx-software-engineering-essentials,Software Engineering Essentials,Programming 
+https://www.class-central.com/mooc/441/coursera-introduction-a-la-programmation-orientee-objet-en-java,Introduction à la programmation orientée objet (en Java),Programming 
+https://www.class-central.com/mooc/1193/complexity-explorer-introduction-to-agent-based-modeling,Introduction to Agent-based Modeling,Programming 
+https://www.class-central.com/mooc/849/coursera-introduction-a-la-programmation-orientee-objet-en-c,Introduction à la programmation orientée objet (en C++),Programming 
+https://www.class-central.com/mooc/847/coursera-initiation-a-la-programmation-en-java,Initiation à la programmation (en Java),Programming 
+https://www.class-central.com/mooc/3227/coursera-java, Java程序设计,Programming 
+https://www.class-central.com/mooc/5174/canvas-network-professional-web-accessibility-auditing-made-easy,Professional Web Accessibility Auditing Made Easy,Programming 
+https://www.class-central.com/mooc/305/coursera-software-as-a-service,Software as a Service,Programming 
+https://www.class-central.com/mooc/357/coursera-software-engineering-for-saas,Software Engineering for SaaS,Programming 
+https://www.class-central.com/mooc/458/csci-1730-introduction-to-programming-languages,CSCI 1730 - Introduction to Programming Languages,Programming 
+https://www.class-central.com/mooc/474/mongodb-university-m101-mongodb-for-developers,M101: MongoDB for Developers,Programming 
+https://www.class-central.com/mooc/580/canvas-network-game-design-concepts,Game Design Concepts,Programming 
+https://www.class-central.com/mooc/593/introduction-to-databases,Introduction to Databases,Programming 
+https://www.class-central.com/mooc/1096/miriada-x-idesweb-introduccion-al-desarrollo-web,"iDESWEB, Introducción al desarrollo web",Programming 
+https://www.class-central.com/mooc/1117/miriada-x-android-programacion-de-aplicaciones,Android. Programación de Aplicaciones,Programming 
+https://www.class-central.com/mooc/2039/coursera-pattern-oriented-software-architectures-for-concurrent-and-networked-software,Pattern-Oriented Software Architectures for Concurrent and Networked Software,Programming 
+https://www.class-central.com/mooc/407/coursera-computational-photography,Computational Photography,Programming 
+https://www.class-central.com/mooc/799/introduction-aux-reseaux-cellulaires,Introduction aux réseaux cellulaires,Programming 
+https://www.class-central.com/mooc/834/building-a-basic-website,Building a Basic Website,Programming 
+https://www.class-central.com/mooc/1006/stanford-openedx-introduction-to-databases,Introduction to Databases,Programming 
+https://www.class-central.com/mooc/845/coursera-introduction-to-systematic-program-design-part-1,Introduction to Systematic Program Design - Part 1,Programming 
+https://www.class-central.com/mooc/1204/iversity-web-engineering-i-grundlagen-der-web-entwicklung,Web-Engineering I: Grundlagen der Web-Entwicklung,Programming 
+https://www.class-central.com/mooc/1685/miriada-x-introduccion-a-la-programacion-para-ciencias-e-ingenieria,Introducción a la Programación para Ciencias e Ingeniería,Programming 
+https://www.class-central.com/mooc/1424/miriada-x-introduccion-a-la-programacion-para-ciencias-e-ingenieria,Introducción a la Programación para Ciencias e Ingeniería,Programming 
+https://www.class-central.com/mooc/1432/miriada-x-desarrollo-de-aplicaciones-en-html5-y-para-dispositivos-moviles-firefox-o-s,Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox O.S.,Programming 
+https://www.class-central.com/mooc/1205/iversity-web-engineering-ii-developing-mobile-html5-apps,Web Engineering II: Developing Mobile HTML5 Apps,Programming 
+https://www.class-central.com/mooc/1697/coursera-introduction-to-computational-arts-processing,Introduction to Computational Arts: Processing,Programming 
+https://www.class-central.com/mooc/3087/rwaq--matlab---,MATLAB البرمجة باستخدام ماتلاب,Programming 
+https://www.class-central.com/mooc/3090/rwaq--ruby-------,Ruby مدخل إلى برمجة مواقع الإنترنت باستخدام لغة,Programming 
+https://www.class-central.com/mooc/1858/openhpi-,内存数据库管理,Programming 
+https://www.class-central.com/mooc/1742/upv-x-android-introduccion-a-la-programacion,Android: introducción a la programación,Programming 
+https://www.class-central.com/mooc/1738/coursera--practice-on-programming,程序设计实习 / Practice on Programming,Programming 
+https://www.class-central.com/mooc/3095/rwaq--python------,Python مقدمة إلى برمجة الحاسب باستخدام لغة,Programming 
+https://www.class-central.com/mooc/533/coursera-pattern-oriented-software-architectures-programming-mobile-services-for-android-handheld-systems,Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems,Programming 
+https://www.class-central.com/mooc/3099/rwaq--java----,Java مقدمة للبرمجة بلغة جافا,Programming 
+https://www.class-central.com/mooc/2258/iversity-web-engineering-iii-quality-assurance,Web Engineering III: Quality Assurance,Programming 
+https://www.class-central.com/mooc/1891/miriada-x-introduccion-a-la-programacion-para-ciencias-e-ingenieria-2a-edicion,Introducción a la Programación para Ciencias e Ingeniería (2ª edición),Programming 
+https://www.class-central.com/mooc/453/coursera-the-hardware-software-interface,The Hardware/Software Interface,Programming 
+https://www.class-central.com/mooc/3103/rwaq-----,البرمجة الموجهة بالاختبارات المقبولة,Programming 
+https://www.class-central.com/mooc/732/coursera-metadata-organizing-and-discovering-information,Metadata: Organizing and Discovering Information,Programming 
+https://www.class-central.com/mooc/1704/coursera-programming-cloud-services-for-android-handheld-systems,Programming Cloud Services for Android Handheld Systems,Programming 
+https://www.class-central.com/mooc/2427/openlearning-mobile-game-development-with-gamesalad,Mobile Game Development with GameSalad,Programming 
+https://www.class-central.com/mooc/1211/coursera-introduction-to-computing-a,Introduction to Computing 计算概论A,Programming 
+https://www.class-central.com/mooc/2378/openhpi-grundlagen-des-programmierens,Grundlagen des Programmierens,Programming 
+https://www.class-central.com/mooc/2003/miriada-x-desarrollo-en-html5-css-y-javascript-de-webapps-incluyendo-moviles-firefoxos,"Desarrollo en HTML5, CSS y Javascript de WebApps, incluyendo móviles FirefoxOS",Programming 
+https://www.class-central.com/mooc/2143/edx-532001x--fundamentals-of-programming,532001x: 程序设计基础 | Fundamentals of Programming,Programming 
+https://www.class-central.com/mooc/1206/iversity-algorithmen-und-datenstrukturen,Algorithmen und Datenstrukturen,Programming 
+https://www.class-central.com/mooc/720/coursera-linear-and-integer-programming,Linear and Integer Programming,Programming 
+https://www.class-central.com/mooc/429/coursera-creative-serious-and-playful-science-of-android-apps,"Creative, Serious and Playful Science of Android Apps",Programming 
+https://www.class-central.com/mooc/1906/coursera-pensamiento-algoritmico,Pensamiento algorítmico,Programming 
+https://www.class-central.com/mooc/697/coursera-conception-et-mise-en-oeuvre-d-algorithmes,Conception et mise en œuvre d'algorithmes.,Programming 
+https://www.class-central.com/mooc/2554/desarrollo-de-aplicaciones-para-android,Desarrollo de Aplicaciones para Android,Programming 
+https://www.class-central.com/mooc/2380/just-in-time-online-modules-in-engineering-computing,Just-in-Time Online Modules in Engineering Computing,Programming 
+https://www.class-central.com/mooc/1586/janux-introduction-to-computer-programming,Introduction to Computer Programming,Programming 
+https://www.class-central.com/mooc/2705/iversity-serious-game-design-and-development,Serious Game Design and Development,Programming 
+https://www.class-central.com/mooc/2983/france-universite-numerique-programmation-sur-iphone-et-ipad-partie-i,Programmation sur iPhone et iPad (partie I),Programming 
+https://www.class-central.com/mooc/1816/coursera-web-application-architectures,Web Application Architectures,Programming 
+https://www.class-central.com/mooc/1875/france-universite-numerique-programmation-sur-iphone-et-ipad,Programmation sur iPhone et iPad,Programming 
+https://www.class-central.com/mooc/3535/edx-dev202-3x-building-cloud-apps-with-microsoft-azure-part-3,DEV202.3x: Building Cloud Apps with Microsoft Azure – Part 3,Programming 
+https://www.class-central.com/mooc/2781/coursera-interactive-computer-graphics-with-webgl,Interactive Computer Graphics with WebGL,Programming 
+https://www.class-central.com/mooc/2486/nptel-introduction-to-programming-in-c,Introduction to Programming in C,Programming 
+https://www.class-central.com/mooc/3983/nptel-fundamentals-of-database-systems,Fundamentals of database systems,Programming 
+https://www.class-central.com/mooc/3990/nptel-functional-programming-in-haskell,Functional Programming in Haskell,Programming 
+https://www.class-central.com/mooc/3844/jdk-8-massive-open-and-online-course-lambdas-and-streams-introduction,JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction,Programming 
+https://www.class-central.com/mooc/2765/coursera-, 计算导论,Programming 
+https://www.class-central.com/mooc/2766/coursera-c,C程序设计,Programming 
+https://www.class-central.com/mooc/1881/france-universite-numerique-introduction-a-html5-animations-et-jeux,Introduction à HTML5 - Animations et jeux,Programming 
+https://www.class-central.com/mooc/2675/france-universite-numerique-python-des-fondamentaux-a-l-utilisation-du-langage,Python : des fondamentaux à l'utilisation du langage,Programming 
+https://www.class-central.com/mooc/4063/edx-dev206-1x-introduction-to-xaml-and-application-development,DEV206.1x: Introduction to XAML and Application Development,Programming 
+https://www.class-central.com/mooc/4366/edx-dev207-1x-programming-in-f,DEV207.1x: Programming in F#,Programming 
+https://www.class-central.com/mooc/1957/coursera-programming-for-everybody-python,Programming for Everybody (Python),Programming 
+https://www.class-central.com/mooc/4581/coursera--,程序设计与算法（大学先修课）,Programming 
+https://www.class-central.com/mooc/4621/coursera-introduccion-a-java,Introducción a Java,Programming 
+https://www.class-central.com/mooc/303/coursera-introduction-to-databases,Introduction to Databases,Programming 
+https://www.class-central.com/mooc/4744/france-universite-numerique-soyez-acteurs-du-web,Soyez acteurs du web !,Programming 
+https://www.class-central.com/mooc/4829/france-universite-numerique-bases-de-donnees-relationnelles-comprendre-pour-maitriser,Bases de données relationnelles : Comprendre pour maîtriser,Programming 
+https://www.class-central.com/mooc/5051/rwaq----,البرمجة بلغة جافا,Programming 
+https://www.class-central.com/mooc/4922/gacco-ga055--java,ga055: プログラミング入門 ～Javaによるオブジェクト指向プログラミング～,Programming 
+https://www.class-central.com/mooc/4755/edx-dev206-2x-designing-advanced-applications-using-xaml,DEV206.2x: Designing Advanced Applications using XAML,Programming 
+https://www.class-central.com/mooc/4710/france-universite-numerique-ecrivez-votre-premier-programme-avec-java,Écrivez votre premier programme avec Java,Programming 
+https://www.class-central.com/mooc/5904/canvas-network-web-development-with-asp-net-c-and-entity-framework-code-first,Web Development with ASP.NET C# and Entity Framework Code-First,Programming 
+https://www.class-central.com/mooc/5562/coursera-desarrollo-de-aplicaciones-web-nivel-de-datos,Desarrollo de Aplicaciones Web: Nivel de Datos,Programming 
+https://www.class-central.com/mooc/5536/coursera-web-application-development-the-data-tier,Web Application Development: The Data Tier,Programming 
+https://www.class-central.com/mooc/5609/coursera-c-,C#高级编程方法,Programming 
+https://www.class-central.com/mooc/5551/coursera-desarrollo-de-aplicaciones-web-nivel-de-presentacion,Desarrollo de Aplicaciones Web: Nivel de Presentación,Programming 
+https://www.class-central.com/mooc/5527/coursera-web-application-development-the-presentation-tier,Web Application Development: The Presentation Tier,Programming 
+https://www.class-central.com/mooc/5825/france-universite-numerique-programmation-objet-immersive-en-pharo-live-object-programming-in-pharo,Programmation objet immersive en Pharo / Live Object Programming in Pharo,Programming 
+https://www.class-central.com/mooc/3343/edx-dev201x-introduction-to-typescript,DEV201x: Introduction to TypeScript,Programming 
+https://www.class-central.com/mooc/7582/federica-tecnologie-digitali-per-la-comunicazione,Tecnologie Digitali per la Comunicazione,Programming 
+https://www.class-central.com/mooc/5503/coursera-desarrollo-de-aplicaciones-web-prueba-y-despliegue,Desarrollo de Aplicaciones Web: Prueba y Despliegue,Programming 
+https://www.class-central.com/mooc/4939/edx-ctec001x-desarrollo-de-aplicaciones-profesionales-para-android,CTec001x: Desarrollo de aplicaciones profesionales para Android,Programming 
+https://www.class-central.com/mooc/5537/coursera-web-application-development-testing-and-deployment,Web Application Development: Testing and Deployment,Programming 
+https://www.class-central.com/mooc/6575/edx-developing-dynamic-web-applications-using-angular-2,Developing Dynamic Web Applications using Angular 2,Programming 
+https://www.class-central.com/mooc/5579/coursera-web-application-development-security,Web Application Development: Security,Programming 
+https://www.class-central.com/mooc/6693/miriada-x-introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital,Introducción a la programación. Descubre el lenguaje de la era digital.,Programming 
+https://www.class-central.com/mooc/6492/gacco-ga068-p,ga068: はじめてのＰ,Programming 
+https://www.class-central.com/mooc/4155/coursera-programming-mobile-services-for-android-handheld-systems-content,Programming Mobile Services for Android Handheld Systems: Content,Programming 
+https://www.class-central.com/mooc/3077/coursera-programming-mobile-services-for-android-handheld-systems-concurrency,Programming Mobile Services for Android Handheld Systems: Concurrency,Programming 
+https://www.class-central.com/mooc/6838/mongodb-university-m123-getting-started-with-mongodb-atlas,M123: Getting Started with MongoDB Atlas,Programming 
+https://www.class-central.com/mooc/6906/opensap-developing-java-based-apps-on-sap-hana-cloud-platform,Developing Java-Based Apps on SAP HANA Cloud Platform,Programming 
+https://www.class-central.com/mooc/6636/futurelearn-functional-programming-in-haskell-supercharge-your-coding,Functional Programming in Haskell: Supercharge Your Coding,Programming 
+https://www.class-central.com/mooc/4513/france-universite-numerique-introduction-to-functional-programming-in-ocaml,Introduction to functional programming in OCaml,Programming 
+https://www.class-central.com/mooc/6907/opensap-shine-reference-for-native-sap-hana-application-development,SHINE Reference for Native SAP HANA Application Development,Programming 
+https://www.class-central.com/mooc/5150/openhpi-zusammenhange-entdecken-phanomene-verstehen-programmieren-mit-etoys,"Zusammenhänge entdecken, Phänomene verstehen: Programmieren mit Etoys",Programming 
+https://www.class-central.com/mooc/6944/coursera-advanced-java-concurrency,Advanced Java Concurrency,Programming 
+https://www.class-central.com/mooc/5671/coursera-tecnicas-avancadas-para-projeto-de-software,Técnicas Avançadas para Projeto de Software,Programming 
+https://www.class-central.com/mooc/3078/coursera-programming-mobile-services-for-android-handheld-systems-communication,Programming Mobile Services for Android Handheld Systems: Communication,Programming 
+https://www.class-central.com/mooc/5669/coursera-arquitetura-de-software-em-projetos-ageis,Arquitetura de Software em Projetos Ágeis,Programming 
+https://www.class-central.com/mooc/5460/coursera-building-and-deploying-android-app-projects,Building and Deploying Android App Projects,Programming 
+https://www.class-central.com/mooc/7436/futurelearn-secure-android-app-development,Secure Android App Development,Programming 
+https://www.class-central.com/mooc/5016/futurelearn-3d-graphics-for-web-developers,3D Graphics for Web Developers,Programming 
+https://www.class-central.com/mooc/600/mongodb-university-m101p-mongodb-for-developers,M101P: MongoDB for Developers,Programming 
+https://www.class-central.com/mooc/5745/mongodb-university-m212-adobe-experience-manager-and-mongodb,M212: Adobe Experience Manager and MongoDB,Programming 
+https://www.class-central.com/mooc/599/mongodb-university-m101j-mongodb-for-java-developers,M101J: MongoDB for Java Developers,Programming 
+https://www.class-central.com/mooc/475/mongodb-university-m102-mongodb-for-dbas,M102: MongoDB for DBAs,Programming 
+https://www.class-central.com/mooc/3273/mongodb-university-m101n-mongodb-for-net-developers,M101N: MongoDB for .NET Developers,Programming 
+https://www.class-central.com/mooc/1188/mongodb-university-m101js-mongodb-for-node-js-developers,M101JS: MongoDB for Node.js Developers,Programming 
+https://www.class-central.com/mooc/1777/mongodb-university-m202-mongodb-advanced-deployment-and-operations,M202: MongoDB Advanced Deployment and Operations,Programming 
+https://www.class-central.com/mooc/5303/nptel-matlab-programming-for-numerical-computation,MATLAB Programming for Numerical Computation,Programming 
+https://www.class-central.com/mooc/7908/nptel-introduction-to-modern-application-development,Introduction to Modern Application Development,Programming 
+https://www.class-central.com/mooc/5287/nptel-an-introduction-to-haskell-programming,An introduction to Haskell Programming,Programming 
+https://www.class-central.com/mooc/6709/nptel-programming-data-structures-and-algorithms-in-python,"Programming, Data Structures and Algorithms in Python",Programming 
+https://www.class-central.com/mooc/3339/edx-programming-with-c,Programming with C#,Programming 
+https://www.class-central.com/mooc/3079/coursera-programming-cloud-services-for-android-handheld-systems-spring,Programming Cloud Services for Android Handheld Systems: Spring,Programming 
+https://www.class-central.com/mooc/937/openhpi-web-technologien,Web-Technologien,Programming 
+https://www.class-central.com/mooc/6704/nptel-programming-in-c,Programming in C++,Programming 
+https://www.class-central.com/mooc/3080/coursera-programming-cloud-services-for-android-handheld-systems-security,Programming Cloud Services for Android Handheld Systems: Security,Programming 
+https://www.class-central.com/mooc/1850/futurelearn-creative-coding,Creative Coding,Programming 
+https://www.class-central.com/mooc/8071/futurelearn-learn-to-code-electronic-music-tools-with-javascript,Learn to Code Electronic Music Tools with Javascript,Programming 
+https://www.class-central.com/mooc/7336/canvas-network-java-programming-for-gcse-and-a-level,Java Programming for GCSE and A-Level,Programming 
